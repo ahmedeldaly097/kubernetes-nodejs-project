@@ -31,5 +31,6 @@
 
 ---
 ## 🎉✅ Congratulations! you deployed the application.
-
-![screenshot from the project](/home/eldaly/Pictures/Screenshots/1.png "ELDALY")
+---
+![1](https://user-images.githubusercontent.com/111642557/226149793-213cf882-1c59-4d5d-a03a-156e23228e1a.png)
+---
