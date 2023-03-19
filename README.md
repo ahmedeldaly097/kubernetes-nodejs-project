@@ -32,4 +32,4 @@
 ---
 ## 🎉✅ Congratulations! you deployed the application.
 
-/home/eldaly/Pictures/Screenshots/1.png
+![screenshot from the project](/home/eldaly/Pictures/Screenshots/1.png "ELDALY")
